@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3fb47736.css",
+    "main.js": "/portfolio/static/js/main.fa16a991.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/nothern_tornadoes_project.jpg": "/portfolio/static/media/nothern_tornadoes_project.6035a973aa1c708ecd8d.jpg",
+    "static/media/headshot.jpg": "/portfolio/static/media/headshot.1385da634a3b2a45d872.jpg",
+    "static/media/dungeon.jpg": "/portfolio/static/media/dungeon.8ba800de64dbe5a658c3.jpg",
+    "static/media/se_2205_labs.jpg": "/portfolio/static/media/se_2205_labs.2a41fdc7e8fc94e63fee.jpg",
+    "static/media/watercooler.jpg": "/portfolio/static/media/watercooler.b524bdc0a7100beae1bf.jpg",
+    "static/media/es_1036_labs.jpg": "/portfolio/static/media/es_1036_labs.c777d6f7952f0bc612bd.jpg",
+    "static/media/se_2202_labs.jpg": "/portfolio/static/media/se_2202_labs.8a7c99b003a285ea4051.jpg",
+    "static/media/Vivek_Jariwala_CV.pdf": "/portfolio/static/media/Vivek_Jariwala_CV.7ed0eb316af4c6e10ad5.pdf",
+    "static/media/whats_next.jpg": "/portfolio/static/media/whats_next.46da8dcd7e167c36a6c1.jpg",
+    "static/media/vandal.jpg": "/portfolio/static/media/vandal.27a5210785e7dd5a88a5.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.3fb47736.css.map": "/portfolio/static/css/main.3fb47736.css.map",
+    "main.fa16a991.js.map": "/portfolio/static/js/main.fa16a991.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb47736.css",
+    "static/js/main.fa16a991.js"
+  ]
+}
